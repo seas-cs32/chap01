@@ -1,5 +1,7 @@
 This directory contains everything needed for
-Chapter 1 (i.e., Problem 1 in Act I, Scene I (Scripts)).
+Chapter 1: Read a Children's Book
+
+[![Run on Repl.it](https://repl.it/badge/github/seas-cs32/chap01)](https://replit.com/@profsmith/chap01)
 
 **Files for STUDENTS**
 
