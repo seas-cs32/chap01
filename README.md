@@ -1,9 +1,6 @@
 This directory contains everything needed for
-Chapter 1: Read a Children's Book
-
-[![Run on Repl.it](https://repl.it/badge/github/seas-cs32/chap01)](https://replit.com/@profsmith/chap01)
-
-**Files for STUDENTS**
+**Chapter 1 (Read a Children's Book)** in
+*Computational Thinking and Problem Solving*.
 
 `seuss1.py`: the simplest solution to our first problem-to-be-solved.
 It handles only one specific input file and doesn't close the file.
@@ -19,7 +16,3 @@ the right and wrong places to `close` the opened file.
 `txts`: Directory containing plaintext stories (i.e., `[title].txt`)
 and the output you should produce from the different solution scripts
 you write (i.e., `[title]-soln*.py`).
-
-`pset1.md`: The description of the programming assignment for this
-chapter. In CS32, this file becomes `instructions.md` in the `pset1`
-Replit project. This copy is done by hand.
