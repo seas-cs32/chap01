@@ -1,6 +1,7 @@
 This directory contains everything needed for
 **Chapter 1 (Read a Children's Book)** in
-*Computational Thinking and Problem Solving*.
+[*Computational Thinking and Problem Solving*](https://profsmith89.github.io/ctps/ctps.html)
+by Michael D. Smith.
 
 `seuss1.py`: the simplest solution to our first problem-to-be-solved.
 It handles only one specific input file and doesn't close the file.
