@@ -6,10 +6,16 @@ by Michael D. Smith.
 `seuss.py`: an emtpy file that the reader can use as they
 follow along in _CTPS_.
 
-`seuss1.py`: the simplest solution to our first problem-to-be-solved.
-It handles only one specific input file and doesn't close the file.
+`seuss-2lines.py`: a script that attempts to read the first two
+lines in the file `CatInTheHat.txt`.
 
-`seuss2.py`: asks the user for the book to read and still doesn't
+`seuss-final.py`: the simplest solution to our first problem-to-be-solved.
+It handles only one specific input file and doesn't close it.
+
+`seuss-infinite.py`: turns the loop in `seuss-final.py` into
+an infinite loop.
+
+`anybook.py`: asks the user for the book to read and still doesn't
 close the opened file.
 
 `ale03ab.py`: code that goes with parts (a) and (b) of ALE #3, discussing

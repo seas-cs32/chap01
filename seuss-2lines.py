@@ -1,0 +1,5 @@
+my_open_book = open('CatInTheHat.txt')
+the_line = my_open_book.readline()
+print(the_line, end='')
+the_line = my_open_book.readline()
+print(the_line, end='')
