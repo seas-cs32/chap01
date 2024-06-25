@@ -18,7 +18,7 @@ an infinite loop.
 `anybook.py`: asks the user for the book to read and still doesn't
 close the opened file.
 
-`ale03ab.py`: code that goes with parts (a) and (b) of ALE #3, discussing
+`ale03ab.py`: code that goes with steps 1-3 of ALE #3, discussing
 the right and wrong places to `close` the opened file.
 
 `ale03c.py`: code that illustrates the use of a with-as statement.
