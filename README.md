@@ -23,6 +23,9 @@ the right and wrong places to `close` the opened file.
 
 `ale03c.py`: code that illustrates the use of a with-as statement.
 
+`ale05[ab].py`: codes that go with steps 1 and 2 of ALE #5,
+which talks about how to use the while-condition.
+
 `txts`: Directory containing plaintext stories (i.e., `[title].txt`)
 and the output you should produce from the different solution scripts
 you write (i.e., `[title]-soln*.py`).
