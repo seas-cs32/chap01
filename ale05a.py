@@ -1,6 +1,6 @@
 ### chap01/ale05a.py
 my_book = input('What book would you like to read? ')
-my_open_book = open(my_book)
+my_open_book = open('txts/' + my_book)
 
 # Read the first line in the book, if it exists
 the_line = my_open_book.readline()

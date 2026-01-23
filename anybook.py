@@ -1,6 +1,6 @@
 ### chap01/anybook.py
 my_book = input('What book would you like to read? ')
-my_open_book = open(my_book)
+my_open_book = open('txts/' + my_book)
 
 # Print every line in the book
 while True:
